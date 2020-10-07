@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/Thanksgiving/'
+    publicPath: '/newerahockey.github.io/'
   }
